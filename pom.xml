@@ -4,7 +4,7 @@
 
     <!-- See description of deployment process at http://central.sonatype.org/pages/ossrh-guide.html -->
 
-    <groupId>org.gwtbootstrap3</groupId>
+    <groupId>cz.stringdata.gwtbootstrap3</groupId>
     <artifactId>gwtbootstrap3-parent</artifactId>
     <packaging>pom</packaging>
     <version>1.0.2-SNAPSHOT</version>
